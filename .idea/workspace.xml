@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f313b84a-e750-466c-be9d-2f24fb4bd245" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch3/Task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch4/Task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch5/Task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifSwitch7/Task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifSwitch2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch2/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifSwitch2/Task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/replit/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/replit/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1690205284283</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1690397756705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690397756706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
