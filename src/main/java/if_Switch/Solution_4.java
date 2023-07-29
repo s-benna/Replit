@@ -1,8 +1,8 @@
-package ifSwitch4;
+package if_Switch;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_4 {
     public static void main(String[] args) {
 
         Scanner inp = new Scanner(System.in);

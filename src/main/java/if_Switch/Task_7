@@ -1,0 +1,17 @@
+2 kelime oluşturun: isim1 ve isim2
+
+        isim1 çift sayıda karakter içeriyorsa, isim2' yi, isim1' in ortasına yerleştirin.
+
+        ilk kelime tek sayida karakter iceriyorsa, “isim1, isim2 ye eklenemiyor” yazdırın.
+
+    If name1 contains an even number of characters, place the second word in the middle of the first name.
+    If the first word contains an odd number of characters, print "Cannot add name1 to name2".
+
+        Örneğin:        isim1= mehmet
+                        isim2= ahmet
+                        Yazdır ==> mehahmetmet
+
+
+                        isim1= memet
+                        isim2= ahmet
+                        Yazdır ==> isim1, isim2 ye eklenemiyor

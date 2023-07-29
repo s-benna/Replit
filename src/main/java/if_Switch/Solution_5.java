@@ -1,8 +1,8 @@
-package ifSwitch5;
+package if_Switch;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Yili giriniz.");

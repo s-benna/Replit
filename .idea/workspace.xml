@@ -4,8 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f313b84a-e750-466c-be9d-2f24fb4bd245" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" afterDir="false" />
+    <list default="true" id="f313b84a-e750-466c-be9d-2f24fb4bd245" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch2/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch3/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch4/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch5/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch7/Task" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +63,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ifSwitch6.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch2.Solution" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\benna\IdeaProjects\Replit\src\main\java\if_Switch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.For_While01">
+    <configuration name="For_While01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_While.For_While01" />
       <module name="Replit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ifSwitch2.*" />
+          <option name="PATTERN" value="for_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,47 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifSwitch3.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch3.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Replit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ifSwitch3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifSwitch4.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch4.Solution" />
-      <module name="Replit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ifSwitch4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ifSwitch5.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch5.Solution" />
-      <module name="Replit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ifSwitch5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ifSwitch6.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch6.Solution" />
+    <configuration name="Solution_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifSwitch6.Solution_6" />
       <module name="Replit" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +102,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifSwitch7.Solution_7" />
+      <module name="Replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifSwitch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifSwitch8.Solution_8" />
+      <module name="Replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifSwitch8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ifSwitch6.Solution" />
-        <item itemvalue="Application.ifSwitch5.Solution" />
-        <item itemvalue="Application.ifSwitch4.Solution" />
-        <item itemvalue="Application.ifSwitch3.Solution" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.For_While01" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution_8" />
+        <item itemvalue="Application.Solution_7" />
+        <item itemvalue="Application.Solution_6" />
       </list>
     </recent_temporary>
   </component>
@@ -136,11 +154,19 @@
       <option name="project" value="LOCAL" />
       <updated>1690397756706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1">
+      <created>1690397786588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690397786588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>
