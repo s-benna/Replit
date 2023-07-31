@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f313b84a-e750-466c-be9d-2f24fb4bd245" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_8" afterDir="false" />
+    <list default="true" id="f313b84a-e750-466c-be9d-2f24fb4bd245" name="Changes" comment="v2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch2/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch3/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch4/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch5/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch6/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/if_Switch/Task_6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifSwitch7/Task" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/for_While/For_While02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/for_While/For_While03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/for_While/For_While03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +55,9 @@
       <recent name="C:\Users\benna\IdeaProjects\Replit\src\main\java\if_Switch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.For_While01">
-    <configuration name="For_While01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="for_While.For_While01" />
+  <component name="RunManager" selected="Application.For_While06">
+    <configuration name="For_While02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_While.For_While02" />
       <module name="Replit" />
       <extension name="coverage">
         <pattern>
@@ -82,19 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Replit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch6.Solution_6" />
+    <configuration name="For_While03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_While.For_While03" />
       <module name="Replit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ifSwitch6.*" />
+          <option name="PATTERN" value="for_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch7.Solution_7" />
+    <configuration name="For_While04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_While.For_While04" />
       <module name="Replit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ifSwitch7.*" />
+          <option name="PATTERN" value="for_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifSwitch8.Solution_8" />
+    <configuration name="For_While05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_While.For_While05" />
       <module name="Replit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ifSwitch8.*" />
+          <option name="PATTERN" value="for_While.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For_While06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="for_While.For_While06" />
+      <module name="Replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="for_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.For_While01" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution_8" />
-        <item itemvalue="Application.Solution_7" />
-        <item itemvalue="Application.Solution_6" />
+        <item itemvalue="Application.For_While06" />
+        <item itemvalue="Application.For_While05" />
+        <item itemvalue="Application.For_While03" />
+        <item itemvalue="Application.For_While04" />
+        <item itemvalue="Application.For_While02" />
       </list>
     </recent_temporary>
   </component>
@@ -161,12 +154,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690397786588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v2">
+      <created>1690626073212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690626073212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
 </project>
