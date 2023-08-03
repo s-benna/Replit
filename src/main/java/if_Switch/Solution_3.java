@@ -1,7 +1,18 @@
 package if_Switch;
 
 import java.util.Scanner;
+/*
+Write a Java program that calculates and prints the sum of two given numbers (greater than or equal to zero).
+If given integers or total more than 10 digits, print "OverFlow".
 
+Example:
+INPUT  :
+25
+46
+
+OUTPUT :
+Sum of Numbers: 71
+ */
 public class Solution_3 {
     public static void main(String[] args) {
 

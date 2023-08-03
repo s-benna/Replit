@@ -1,7 +1,20 @@
 package if_Switch;
 
 import java.util.Scanner;
+/*
+Ask the user to enter a name and print a new String
+with 3 copies of the last 2 letters.
 
+The name length received from the user will be at least 2.
+INPUT  : Mustafa
+OUTPUT : fafafa
+
+
+
+Kullanıcıdan bir isim girmesini isteyin ve son 2 harfinin 3 kopyasından oluşan yeni bir String yazdırın
+
+Kullanicidan alinan isim uzunluğu en az 2 olacaktır.
+ */
 public class Solution_8 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

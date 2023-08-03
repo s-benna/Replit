@@ -1,7 +1,19 @@
 package if_Switch;
 
 import java.util.Scanner;
+/*
+Write the java code that converts the user's Name, Surname and credit card numbers to the given format.
 
+* Initial Letters must start with a capital letter.
+
+Input :
+Name  : John White
+CCN   : 1234234534561478
+
+Output :
+Name : J*** W****
+CCN  : **** **** **** 1478
+ */
 public class Solution_2 {
     public static void main(String[] args) {
 

@@ -1,7 +1,17 @@
 package if_Switch;
 
 import java.util.Scanner;
+/*
+OUTPUT  : Subat 2016 29 Gundur.
 
+Write a Java program that calculates the number of days in a month.
+
+INPUT:
+Month Number: 2
+Year        : 2016
+
+OUTPUT: February 2016 is 29 days.
+ */
 public class Solution_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
